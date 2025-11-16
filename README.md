@@ -10,6 +10,11 @@ ATTEMPTS_TO_CONNECT=3
 BASE_DELAY=1
 ```
 
+## Запуск приложения:
+```
+docker-compose up --build -d
+```
+
 ## Добавлен эндпоинт статистики:
 
 + Группировка по user_id:
